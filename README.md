@@ -7,7 +7,7 @@ The Spring 2019 session is a 10 weeks immersive program where students will be a
 * Taught by Zach Lieberman with TA Matt Jacobson
 
 ## Tuesday: Critical Theory
-* [Dark Matters](https://github.com/0ld-h3ad/DarkMatters-Fall2018) 
+* [Dark Matters](https://github.com/0ld-h3ad/DarkMatters-Spring2019) 
 * Taught by American Artist with TA Nabil Hassein
 
 ## Wednesday: Hardware 
