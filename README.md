@@ -22,5 +22,6 @@ The Spring 2019 session is a 10 weeks immersive program where students will be a
 * alternating weeks of
 * [Showcase Prep](https://github.com/poohlaga/Showcase-Class---SFPC-Fall-2018) taught by Lauren Gardner, TA April Soetarman
 * [Artists Toolkit](https://github.com/tchoi8/ArtistsToolkit) taught by Taeyoon Choi , TA Celine Wong Katzman
+* [Poetics of computation](https://github.com/tchoi8/poeticsofcomputation/blob/master/README.md) tuaght by Taeyoon Choi
 
 This session will be organized by Taeyoon, Zach and Lauren.
