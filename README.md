@@ -3,7 +3,7 @@
 The Spring 2019 session is a 10 weeks immersive program where students will be attending class daily and showing their work at the end of the semester in a student showcase. This session will focus on five tracks.
 
 ## Monday: Code 
-* [Recreating the Past](https://github.com/ofZach/SFPC_RTP_fall18) 
+* [Recreating the Past](https://github.com/ofZach/RTP_SFPC_spring19) 
 * Taught by Zach Lieberman with TA Matt Jacobson
 
 ## Tuesday: Critical Theory
