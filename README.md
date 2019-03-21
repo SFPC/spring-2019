@@ -15,7 +15,7 @@ The Spring 2019 session is a 10 weeks immersive program where students will be a
 * Taught by CW&T with TA Tiri Kananuruk and Sebastian Morales 
 
 ## Thursday: Poetry 
-* [Scrapism](https://github.com/antiboredom/sfpc-scrapism) 
+* [Scrapism](https://github.com/antiboredom/sfpc-scrapism-spring-2019) 
 * Taught by Sam Lavigne with TA Fernando Ramallo
 
 ## Friday: Professional Development 
